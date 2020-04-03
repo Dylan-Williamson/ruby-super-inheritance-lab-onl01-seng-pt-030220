@@ -7,4 +7,8 @@ def Chatty_Student < Student
     
   end
   
+  def raise_hand
+    super
+    puts 
+  
 end
