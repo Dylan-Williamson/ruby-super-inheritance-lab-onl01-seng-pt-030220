@@ -3,6 +3,7 @@ require_relative "./student"
 def Chatty_Student < Student
   
   def hello
+    hello
     super
     
   end
